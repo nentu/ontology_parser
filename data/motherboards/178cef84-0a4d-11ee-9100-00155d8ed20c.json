@@ -1,0 +1,334 @@
+{
+  "assets": {
+    "inlineJs": {
+      "304921dba6d0bb2761d793465d3a1bd8": "window.AjaxState.register([[{\"type\":\"characteristics-description\",\"timeout\":10},[{\"id\":\"as-XGq5x-\",\"data\":{\"id\":\"j\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-zKZdDo\",\"data\":{\"id\":\"6h\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-mPwmH6\",\"data\":{\"id\":\"3we\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-SPHgy7\",\"data\":{\"id\":\"13n\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-vp8iG-\",\"data\":{\"id\":\"2\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-AlOkG_\",\"data\":{\"id\":\"8i\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-BLUYxZ\",\"data\":{\"id\":\"8g\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-OMps0t\",\"data\":{\"id\":\"1zs\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-0UqRIY\",\"data\":{\"id\":\"761\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-Sf9fhd\",\"data\":{\"id\":\"76b\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-Ca4d29\",\"data\":{\"id\":\"5bk\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-Dw3QLA\",\"data\":{\"id\":\"764\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-97X2Il\",\"data\":{\"id\":\"54\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-AyGcr6\",\"data\":{\"id\":\"51\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-eqV8pr\",\"data\":{\"id\":\"4w\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-Lcutbj\",\"data\":{\"id\":\"76q\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-Zk2Ome\",\"data\":{\"id\":\"7sm\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-2RiyC1\",\"data\":{\"id\":\"59\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as--VZ0F1\",\"data\":{\"id\":\"9fu\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-DsK57g\",\"data\":{\"id\":\"53\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-wk6sxy\",\"data\":{\"id\":\"763\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-I-5-OA\",\"data\":{\"id\":\"9h\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-EdsjdI\",\"data\":{\"id\":\"5fy\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-6wxphg\",\"data\":{\"id\":\"92d\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-c3RXTt\",\"data\":{\"id\":\"765\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-_8m-A6\",\"data\":{\"id\":\"9fx\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-8se6VN\",\"data\":{\"id\":\"9fy\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-StOrtn\",\"data\":{\"id\":\"76r\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-b1hp3i\",\"data\":{\"id\":\"58\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-Ar8GTR\",\"data\":{\"id\":\"76s\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-m1SiIi\",\"data\":{\"id\":\"964\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-09-cS2\",\"data\":{\"id\":\"5br\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-q4F93N\",\"data\":{\"id\":\"9m\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-jiBDUD\",\"data\":{\"id\":\"4mi\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-JZhPE0\",\"data\":{\"id\":\"3u9\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-x4nB4i\",\"data\":{\"id\":\"3ua\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-q_i_dT\",\"data\":{\"id\":\"9g1\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-X9Ru-A\",\"data\":{\"id\":\"5bn\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-hw48o0\",\"data\":{\"id\":\"9g3\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-Jgih4v\",\"data\":{\"id\":\"9g4\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-7zhQ9d\",\"data\":{\"id\":\"1bd\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-ttSiR8\",\"data\":{\"id\":\"766\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-VKFE9i\",\"data\":{\"id\":\"767\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-3MVUM-\",\"data\":{\"id\":\"62e\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-_FFihB\",\"data\":{\"id\":\"62f\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-7x3lE6\",\"data\":{\"id\":\"6qm\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-30HQmT\",\"data\":{\"id\":\"9g6\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-VKQDwX\",\"data\":{\"id\":\"9k\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-NN-ALd\",\"data\":{\"id\":\"5e\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-EuGuSC\",\"data\":{\"id\":\"5f\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-YdBzaY\",\"data\":{\"id\":\"9\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-6dP21p\",\"data\":{\"id\":\"9a\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-IXTN91\",\"data\":{\"id\":\"76v\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-GuZbgY\",\"data\":{\"id\":\"5a8\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-QfWePd\",\"data\":{\"id\":\"5bm\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-BW8_v_\",\"data\":{\"id\":\"76w\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-ENbKQM\",\"data\":{\"id\":\"76x\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-_9HRkD\",\"data\":{\"id\":\"76z\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-RrSLGt\",\"data\":{\"id\":\"4zz\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-KEeB_V\",\"data\":{\"id\":\"4c\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-zsP1eM\",\"data\":{\"id\":\"4o\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-KZnAXl\",\"data\":{\"id\":\"9g8\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-SeT6K1\",\"data\":{\"id\":\"4b0\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-q6N1Ub\",\"data\":{\"id\":\"4b2\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}},{\"id\":\"as-0zqrrJ\",\"data\":{\"id\":\"93g\",\"specGuid\":\"0f2acbc2-4d27-28dc-7002-5dacdace28d1\"}}],false]]);"
+    },
+    "inlineJsHead": [],
+    "inlineCss": [],
+    "jsFiles": [
+      "https://a.dns-shop.ru/static/10/1xya992/ajax-state-characteristics-description.js",
+      "https://a.dns-shop.ru/static/10/1bwssq0/ajax-state.js"
+    ],
+    "cssFiles": [
+      {
+        "url": "https://a.dns-shop.ru/static/10/1bwssq0/css/ajax-state.css",
+        "media": null
+      }
+    ]
+  },
+  "result": true,
+  "data": {
+    "guid": "178cef84-0a4d-11ee-9100-00155d8ed20c",
+    "code": "5420975",
+    "name": "Материнская плата ASUS PRIME H510M-K R2.0",
+    "specs": "[LGA 1200, Intel H470, 2xDDR4-2933 МГц, 1xPCI-Ex16, 1xM.2, Micro-ATX]",
+    "description": "Материнская плата ASUS PRIME H510M-K R2.0 станет основой универсального офисного или домашнего компьютера. Системный блок можно собрать в компактном корпусе: модель соответствует форм-фактору Micro-ATX. Размеры платы – 226x203 мм. Устройство поддерживает интеллектуальную технологию ASUS Intelligent Control. Пользователю доступны комплексной настройка и динамическая оптимизация параметров системы. Модуль EPU снижает энергопотребление ПК. Управление охлаждением производится с помощью программного обеспечения Fan Xpert или UEFI BIOS. \nМатеринская плата ASUS PRIME H510M-K R2.0 совместима с процессорами Intel LGA 1200 с ядрами Comet Lake и Rocket Lake. Максимально допустимый объем оперативной памяти – 64 ГБ. Используются модули DDR4 с частотой в разгоне до 3200 МГц. Плата имеет 2 слота расширения – PCI-E x16 и PCI-E x1. В наличии гигабитный сетевой адаптер и звук формата 7.1 Realtek HD Audio. Особенность панели ввода/вывода – наличие комбинированного разъема PS/2. Он рассчитан на подключение мыши или клавиатуры. Плата защищена от перегрева пассивным охлаждением чипсета.",
+    "price": 6599,
+    "bonus": 0,
+    "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/320/250/d8381668530d5ba36fd62af64b7c6a31/cacc328851ea169e9435fd7515568b722827dde703866a9a0b71c60159ee617f.jpg",
+    "characteristics": {
+      "Общие параметры": [
+        {
+          "title": "Тип",
+          "value": "материнская плата"
+        },
+        {
+          "title": "Модель",
+          "value": "ASUS PRIME H510M-K R2.0"
+        },
+        {
+          "title": "Серия",
+          "value": "ASUS PRIME"
+        },
+        {
+          "title": "Цвет",
+          "value": "черный"
+        }
+      ],
+      "Форм-фактор и размеры": [
+        {
+          "title": "Форм-фактор",
+          "value": "Micro-ATX"
+        },
+        {
+          "title": "Высота",
+          "value": "226 мм"
+        },
+        {
+          "title": "Ширина",
+          "value": "203 мм"
+        }
+      ],
+      "Процессор и чипсет": [
+        {
+          "title": "Сокет",
+          "value": "LGA 1200"
+        },
+        {
+          "title": "Чипсет Intel",
+          "value": "Intel H470"
+        },
+        {
+          "title": "Совместимые ядра процессоров Intel",
+          "value": "Comet Lake, Rocket Lake"
+        }
+      ],
+      "Память": [
+        {
+          "title": "Тип поддерживаемой памяти",
+          "value": "DDR4"
+        },
+        {
+          "title": "Форм-фактор поддерживаемой памяти",
+          "value": "DIMM"
+        },
+        {
+          "title": "Количество слотов памяти",
+          "value": "2"
+        },
+        {
+          "title": "Количество каналов памяти",
+          "value": "2"
+        },
+        {
+          "title": "Максимальный объем памяти",
+          "value": "64 ГБ"
+        },
+        {
+          "title": "Максимальная частота памяти (JEDEC/без разгона)",
+          "value": "2933 МГц"
+        },
+        {
+          "title": "Частота оперативной памяти в разгоне",
+          "value": "3000 МГц, 3200 МГц"
+        }
+      ],
+      "Слоты расширения": [
+        {
+          "title": "Версия PCI Express",
+          "value": "4.0"
+        },
+        {
+          "title": "Слоты PCIe x16",
+          "value": "1 x PCIe 4.0 (в режиме x16)"
+        },
+        {
+          "title": "Поддержка SLI/CrossFire",
+          "value": "нет"
+        },
+        {
+          "title": "Количество карт в SLI/Crossfire",
+          "value": "0 шт"
+        },
+        {
+          "title": "Количество слотов PCI-E x1",
+          "value": "1"
+        }
+      ],
+      "Контроллеры накопителей": [
+        {
+          "title": "Поддержка NVMe",
+          "value": "есть"
+        },
+        {
+          "title": "Версия PCI Express накопителей",
+          "value": "3.0"
+        },
+        {
+          "title": "Количество разъемов M.2",
+          "value": "1"
+        },
+        {
+          "title": "Разъемы M.2 (M), PCIe линии процессора",
+          "value": "нет"
+        },
+        {
+          "title": "Разъемы M.2 (M), PCIe линии чипсета",
+          "value": "1 x 2242/2260/2280 (SATA/PCIe 3.0 x4)"
+        },
+        {
+          "title": "Количество портов SATA",
+          "value": "4"
+        },
+        {
+          "title": "Режим работы SATA RAID",
+          "value": "нет"
+        },
+        {
+          "title": "Другие разъемы накопителей",
+          "value": "нет"
+        }
+      ],
+      "Порты на задней панели": [
+        {
+          "title": "Порты USB Type-A",
+          "value": "2 x USB 2.0, 4 x USB 3.2 Gen 1"
+        },
+        {
+          "title": "Порты USB Type-C",
+          "value": "нет"
+        },
+        {
+          "title": "Видеовыходы",
+          "value": "1 x HDMI, 1 x VGA (D-Sub)"
+        },
+        {
+          "title": "Количество сетевых портов (RJ-45)",
+          "value": "1"
+        },
+        {
+          "title": "Количество аналоговых аудиоразъемов",
+          "value": "3"
+        },
+        {
+          "title": "Цифровые аудиопорты (S/PDIF)",
+          "value": "нет"
+        },
+        {
+          "title": "Разъемы SMA (для антенны Wi-Fi)",
+          "value": "нет"
+        },
+        {
+          "title": "Порты PS/2",
+          "value": "комбинированный"
+        }
+      ],
+      "Разъемы на плате": [
+        {
+          "title": "Внутренние USB Type-A разъемы",
+          "value": "1 x USB 3.2 Gen 1 (19 pin), 2 x USB 2.0 (9 pin)"
+        },
+        {
+          "title": "Внутренние USB Type-C разъемы",
+          "value": "нет"
+        },
+        {
+          "title": "Разъемы питания процессорного охлаждения",
+          "value": "1 x 4 pin (кулер)"
+        },
+        {
+          "title": "Разъемы для корпусных вентиляторов (4 pin)",
+          "value": "1"
+        },
+        {
+          "title": "Разъемы для корпусных вентиляторов (3 pin)",
+          "value": "0"
+        },
+        {
+          "title": "Разъемы 5V-D-G (3 pin) для ARGB подсветки",
+          "value": "0"
+        },
+        {
+          "title": "Разъемы 12V-G-R-B (4 pin) для RGB подсветки",
+          "value": "1"
+        },
+        {
+          "title": "Разъем M.2 (E) для модулей беспроводной связи",
+          "value": "нет"
+        },
+        {
+          "title": "Разъем RS-232 (COM)",
+          "value": "есть"
+        },
+        {
+          "title": "Интерфейс LPT",
+          "value": "нет"
+        }
+      ],
+      "Аудио": [
+        {
+          "title": "Звуковая схема",
+          "value": "7.1"
+        }
+      ],
+      "Сеть": [
+        {
+          "title": "Скорость сетевого адаптера",
+          "value": "1 Гбит/с"
+        },
+        {
+          "title": "Стандарт Wi-Fi",
+          "value": "нет"
+        },
+        {
+          "title": "Версия Bluetooth",
+          "value": "нет"
+        },
+        {
+          "title": "Адаптер беспроводной связи",
+          "value": "нет"
+        }
+      ],
+      "Питание и охлаждение": [
+        {
+          "title": "Основной разъем питания",
+          "value": "24 pin"
+        },
+        {
+          "title": "Разъем питания процессора",
+          "value": "1 x 8 pin"
+        },
+        {
+          "title": "Пассивное охлаждение",
+          "value": "чипсет"
+        },
+        {
+          "title": "Активное охлаждение",
+          "value": "нет"
+        }
+      ],
+      "Дополнительная информация": [
+        {
+          "title": "Кнопки на плате",
+          "value": "нет"
+        },
+        {
+          "title": "Подсветка элементов платы",
+          "value": "нет"
+        },
+        {
+          "title": "Особенности, дополнительно",
+          "value": "поддержка Intel XMP"
+        },
+        {
+          "title": "Комплектация",
+          "value": "2 x кабель SATA, документация, задняя планка, крепеж для разъема M.2"
+        }
+      ],
+      "Габариты и вес в упаковке": [
+        {
+          "title": "Длина коробки",
+          "value": "27 см"
+        },
+        {
+          "title": "Ширина коробки",
+          "value": "26 см"
+        },
+        {
+          "title": "Высота коробки",
+          "value": "5.3 см"
+        },
+        {
+          "title": "Вес с коробкой",
+          "value": "0.82 кг"
+        }
+      ]
+    },
+    "topOpinion": {
+      "plus": "Asus. Обновлённый H470 который поддерживает процессоры 11 поколения. Толстый текстолит.  Вышла R2.0 не так давно в ноябре 2023 если не ошибаюсь!",
+      "minus": "Нет",
+      "comment": "Поставил i7 11700 64 гигабайта оперативной памяти. Разгон весь убрал он был по умолчанию на процессоре. XMR не включал на памяти. Хотя пробывал все хорошо работает! Нагрузка процессора и так в играх максимум 20% не более во всех. Видеокарту установил gtx1650 все идеально у нее нагрузка 100%. В будущем сменю конечно ее. Жесткие диски видел в биосе но в загрузке нет. Разобрался что и как теперь все ок. Видеокарту внешнюю тоже не видел. Контакты ластиком чистил у нее. Заработала отлично",
+      "period": 1,
+      "grade": 5,
+      "userName": "Пришелец-FA62374",
+      "userCity": "Волжский",
+      "insertDate": "2024-01-22 22:44:48.28119"
+    },
+    "stamp": 1727798960,
+    "rating": 4.7,
+    "manufacturerCountry": null,
+    "monthWarranty": 36
+  },
+  "message": "",
+  "errors": []
+}

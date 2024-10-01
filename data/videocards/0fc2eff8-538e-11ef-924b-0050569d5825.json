@@ -1,0 +1,249 @@
+{
+  "assets": {
+    "inlineJs": {
+      "9496940c5ed2f11199846a9f24ca636b": "window.AjaxState.register([[{\"type\":\"characteristics-description\",\"timeout\":10},[{\"id\":\"as-uiVSvj\",\"data\":{\"id\":\"j\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-ofLleA\",\"data\":{\"id\":\"6h\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-WfmIIF\",\"data\":{\"id\":\"3j6\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-fA043X\",\"data\":{\"id\":\"13n\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-JPHUq4\",\"data\":{\"id\":\"82q\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-1t8LXV\",\"data\":{\"id\":\"7gh\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-2K6_0D\",\"data\":{\"id\":\"19\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-JiapH4\",\"data\":{\"id\":\"6tm\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-eXmha-\",\"data\":{\"id\":\"5q\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-x1EaI_\",\"data\":{\"id\":\"5k\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-ON8AkF\",\"data\":{\"id\":\"2ei\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-LPGpPe\",\"data\":{\"id\":\"5r\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-f4BAXh\",\"data\":{\"id\":\"5t\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-_pR8ek\",\"data\":{\"id\":\"5u\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-zAFl5g\",\"data\":{\"id\":\"60e\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-v4B3mX\",\"data\":{\"id\":\"6t6\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-xasTRN\",\"data\":{\"id\":\"6v0\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-AwOwqS\",\"data\":{\"id\":\"1a\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-jDbrNF\",\"data\":{\"id\":\"1b\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-5loSFZ\",\"data\":{\"id\":\"5l\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-d9MpaF\",\"data\":{\"id\":\"2ej\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-40ECw_\",\"data\":{\"id\":\"5o\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-JkJDFK\",\"data\":{\"id\":\"8fq\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-IuCxiP\",\"data\":{\"id\":\"4im\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-uy5rcp\",\"data\":{\"id\":\"6tl\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-nlCKC8\",\"data\":{\"id\":\"8fu\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-Jag-Nj\",\"data\":{\"id\":\"1v\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-WqTLQ0\",\"data\":{\"id\":\"ap\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-RBplJY\",\"data\":{\"id\":\"8fv\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-aI5uQw\",\"data\":{\"id\":\"9as\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-AjhX5O\",\"data\":{\"id\":\"5be\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-RRmJak\",\"data\":{\"id\":\"8fw\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-B5AC0C\",\"data\":{\"id\":\"ob\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-zyERev\",\"data\":{\"id\":\"4rv\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-4TJT3a\",\"data\":{\"id\":\"4rw\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-UDZP6w\",\"data\":{\"id\":\"8fx\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-5qRTrL\",\"data\":{\"id\":\"50b\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-9k-vXO\",\"data\":{\"id\":\"6od\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-mTbs8Z\",\"data\":{\"id\":\"6of\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-hkv9ms\",\"data\":{\"id\":\"6oe\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-IUsptd\",\"data\":{\"id\":\"4c\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-XeWdr6\",\"data\":{\"id\":\"4o\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-lV-w24\",\"data\":{\"id\":\"5bf\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-wWnzTK\",\"data\":{\"id\":\"8fy\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-ol7AG-\",\"data\":{\"id\":\"8fz\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-HNBFeq\",\"data\":{\"id\":\"8zc\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-9NvcyC\",\"data\":{\"id\":\"2eq\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}},{\"id\":\"as-7C5E-O\",\"data\":{\"id\":\"8o\",\"specGuid\":\"2fdaf019-57c2-8355-071e-7f228a68faef\"}}],false]]);"
+    },
+    "inlineJsHead": [],
+    "inlineCss": [],
+    "jsFiles": [
+      "https://a.dns-shop.ru/static/10/1xya992/ajax-state-characteristics-description.js",
+      "https://a.dns-shop.ru/static/10/1bwssq0/ajax-state.js"
+    ],
+    "cssFiles": [
+      {
+        "url": "https://a.dns-shop.ru/static/10/1bwssq0/css/ajax-state.css",
+        "media": null
+      }
+    ]
+  },
+  "result": true,
+  "data": {
+    "guid": "0fc2eff8-538e-11ef-924b-0050569d5825",
+    "code": "5480293",
+    "name": "Видеокарта MSI Geforce RTX 3050 VENTUS 2X XS WHITE OC [RTX 3050 VENTUS 2X XS WHITE 8G OC]",
+    "specs": "[PCIe 4.0 8 ГБ GDDR6, 128 бит, DisplayPort, DVI-D, HDMI, GPU 1552 МГц]",
+    "description": "Видеокарта MSI Geforce RTX 3050 VENTUS 2X XS WHITE OC подходит для рабочей станции и игрового компьютера. Благодаря платформе с архитектурой NVIDIA Ampere и 8 ГБ памяти GDDR6 она обеспечивает высокую производительность графики. Тензорные ядра, потоковые мультипроцессоры и технология трассировки лучей гарантируют реалистичность передачи деталей изображения. \nВидеокарта MSI Geforce RTX 3050 VENTUS 2X XS WHITE OC охлаждается алюминиевым радиатором и 2 вентиляторами, которые стабильно рассеивают тепло при разной вычислительной нагрузке. Металлическая пластина на тыловой стороне улучшает охлаждение и усиливает прочность конструкции. Для подключения к источникам вывода изображения есть по 1 разъему DVI-D, DisplayPort и HDMI. Управлять параметрами графической мощности и осуществлять мониторинг состояния позволяет утилита MSI Afterburner.",
+    "price": 24999,
+    "bonus": 0,
+    "imageUrl": "https://c.dns-shop.ru/thumb/st1/fit/320/250/bb09614cd17b872978f19bc9459ee2c3/034544f1535134b92a6ec446091436ecbbb034006b1ea7acbeeff0a1619a8683.png",
+    "characteristics": {
+      "Общие параметры": [
+        {
+          "title": "Тип",
+          "value": "видеокарта"
+        },
+        {
+          "title": "Модель",
+          "value": "MSI Geforce RTX 3050 VENTUS 2X XS WHITE OC"
+        },
+        {
+          "title": "Код производителя",
+          "value": "[RTX 3050 VENTUS 2X XS WHITE 8G OC]"
+        },
+        {
+          "title": "Цвет",
+          "value": "белый"
+        },
+        {
+          "title": "Предназначена для майнинга (добыча криптовалют)",
+          "value": "нет"
+        },
+        {
+          "title": "LHR",
+          "value": "нет"
+        }
+      ],
+      "Основные параметры": [
+        {
+          "title": "Графический процессор",
+          "value": "GeForce RTX 3050"
+        },
+        {
+          "title": "Микроархитектура",
+          "value": "NVIDIA Ampere"
+        },
+        {
+          "title": "Техпроцесс",
+          "value": "8 нм"
+        }
+      ],
+      "Спецификации видеопроцессора": [
+        {
+          "title": "Штатная частота работы видеочипа",
+          "value": "1552 МГц"
+        },
+        {
+          "title": "Турбочастота",
+          "value": "1807 МГц"
+        },
+        {
+          "title": "Количество универсальных процессоров (ALU)",
+          "value": "2560"
+        },
+        {
+          "title": "Число текстурных блоков",
+          "value": "80"
+        },
+        {
+          "title": "Число блоков растеризации",
+          "value": "32"
+        },
+        {
+          "title": "Поддержка трассировки лучей",
+          "value": "есть"
+        },
+        {
+          "title": "Аппаратное ускорение трассировки лучей (RT-ядра)",
+          "value": "20"
+        },
+        {
+          "title": "Тензорные ядра",
+          "value": "80"
+        }
+      ],
+      "Спецификации видеопамяти": [
+        {
+          "title": "Объем видеопамяти",
+          "value": "8 ГБ"
+        },
+        {
+          "title": "Тип памяти",
+          "value": "GDDR6"
+        },
+        {
+          "title": "Разрядность шины памяти",
+          "value": "128 бит"
+        },
+        {
+          "title": "Максимальная пропускная способность памяти",
+          "value": "224 Гбайт/сек"
+        },
+        {
+          "title": "Эффективная частота памяти",
+          "value": "14000 МГц"
+        }
+      ],
+      "Вывод изображения": [
+        {
+          "title": "Тип и количество видеоразъемов",
+          "value": "DVI-D, DisplayPort, HDMI"
+        },
+        {
+          "title": "Версия HDMI",
+          "value": "2.1"
+        },
+        {
+          "title": "Версия DisplayPort",
+          "value": "1.4a"
+        },
+        {
+          "title": "Количество подключаемых одновременно мониторов",
+          "value": "3"
+        },
+        {
+          "title": "Максимальное разрешение",
+          "value": "7680x4320 (8K Ultra HD)"
+        }
+      ],
+      "Подключение": [
+        {
+          "title": "Интерфейс подключения",
+          "value": "PCIe 4.0"
+        },
+        {
+          "title": "Форм-фактор разъема подключения",
+          "value": "PCIe x16"
+        },
+        {
+          "title": "Количество линий PCI Express",
+          "value": "8"
+        },
+        {
+          "title": "Разъемы дополнительного питания",
+          "value": "6 pin"
+        },
+        {
+          "title": "Рекомендуемый блок питания",
+          "value": "500 Вт"
+        },
+        {
+          "title": "Потребляемая мощность",
+          "value": "115 Вт"
+        }
+      ],
+      "Система охлаждения": [
+        {
+          "title": "Тип охлаждения",
+          "value": "активное воздушное"
+        },
+        {
+          "title": "Тип и количество установленных вентиляторов",
+          "value": "2 осевых"
+        },
+        {
+          "title": "Радиатор жидкостного охлаждения",
+          "value": "нет"
+        }
+      ],
+      "Дополнительно": [
+        {
+          "title": "Подсветка элементов видеокарты",
+          "value": "нет"
+        },
+        {
+          "title": "Синхронизация RGB подсветки",
+          "value": "нет"
+        },
+        {
+          "title": "LCD дисплей",
+          "value": "нет"
+        },
+        {
+          "title": "Переключатель BIOS",
+          "value": "нет"
+        },
+        {
+          "title": "Особенности, дополнительно",
+          "value": "L2 кэш - 2 Мб"
+        },
+        {
+          "title": "Комплектация",
+          "value": "документация"
+        }
+      ],
+      "Габариты и вес": [
+        {
+          "title": "Низкопрофильная карта (Low Profile)",
+          "value": "нет"
+        },
+        {
+          "title": "Количество занимаемых слотов расширения",
+          "value": "2.2"
+        },
+        {
+          "title": "Длина видеокарты",
+          "value": "205 мм"
+        },
+        {
+          "title": "Ширина видеокарты",
+          "value": "112 мм"
+        },
+        {
+          "title": "Толщина видеокарты",
+          "value": "45 мм"
+        },
+        {
+          "title": "Вес",
+          "value": "570 г"
+        }
+      ]
+    },
+    "topOpinion": null,
+    "stamp": 1727798975,
+    "rating": 0,
+    "manufacturerCountry": "Китай",
+    "monthWarranty": 36
+  },
+  "message": "",
+  "errors": []
+}

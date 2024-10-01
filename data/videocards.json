@@ -1,0 +1,131 @@
+{
+  "type": "avails-container",
+  "containers": [
+    {
+      "id": "as-QuKBvZ",
+      "data": {
+        "id": "3da9edf5-c0f1-11ee-91af-00155d8ed20b",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-liojoG",
+      "data": {
+        "id": "92949b78-c65a-11ee-91b6-00155d8ed20b",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-eC5BrZ",
+      "data": {
+        "id": "b4df3eca-7e2f-11ee-916e-00155d8ed20c",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-fxKzGC",
+      "data": {
+        "id": "c4602d1e-4d58-11ef-9242-0050569d9cb8",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-oh4WXS",
+      "data": {
+        "id": "bc35f5ca-fe05-11ee-91f5-0050569d9cb8",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-hwfEhm",
+      "data": {
+        "id": "5244acf6-4973-11ef-923d-0050569d9cb8",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-4aYIhd",
+      "data": {
+        "id": "a1560975-bc27-11ee-91ad-00155d8ed20c",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-2hD2u1",
+      "data": {
+        "id": "cb40d6cb-1324-11ef-920b-0050569d5825",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-LI0bNX",
+      "data": {
+        "id": "cc81873b-c65a-11ee-91b6-00155d8ed20b",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-3Am8w2",
+      "data": {
+        "id": "f3ce55b7-c400-11ee-91b1-00155d8ed20b",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-UoDRGz",
+      "data": {
+        "id": "1b6877b2-cf05-11ee-91c1-00155d8ed20b",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-eTmW93",
+      "data": {
+        "id": "51cb44de-f08d-11ee-91eb-0050569d5825",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-vol3MV",
+      "data": {
+        "id": "75c7526d-6050-11ef-9258-0050569d5825",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-2i8WU-",
+      "data": {
+        "id": "0fc2eff8-538e-11ef-924b-0050569d5825",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-Nh8_wj",
+      "data": {
+        "id": "2bbb6112-b819-11ed-90a7-00155d8ed20c",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-NhYANK",
+      "data": {
+        "id": "3ee95cc2-ca2a-11ed-90bc-00155d8ed20c",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-vNFEy9",
+      "data": {
+        "id": "5a74a341-71b1-11ec-8f5a-00155d8ed20b",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-nYXLIb",
+      "data": {
+        "id": "f6ddae74-be44-11ed-90b0-00155d8ed20c",
+        "checkPrice": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,1459 @@
+    <Declaration>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_X4_950_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_X4_950_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_X4_950_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AMD Athlon X4 950</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_X4_950_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Малайзия</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_X4_950_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_X4_950_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.5 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_X4_950_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.8 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_Intel_Celeron_G6900_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_Intel_Celeron_G6900_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_Intel_Celeron_G6900_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel Celeron G6900</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_Intel_Celeron_G6900_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Вьетнам</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_Intel_Celeron_G6900_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">2</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Celeron_G6900_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.4 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Celeron_G6900_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">0 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_AMD_A6-7480_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_AMD_A6-7480_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_AMD_A6-7480_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AMD A6-7480</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_AMD_A6-7480_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_AMD_A6-7480_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">2</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_A6-7480_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.5 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_A6-7480_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.8 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_PRO_300GE_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_PRO_300GE_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_PRO_300GE_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AMD Athlon PRO 300GE</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_PRO_300GE_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_PRO_300GE_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">2</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_PRO_300GE_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.4 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_PRO_300GE_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">0 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_G4560_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_G4560_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_G4560_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel Pentium G4560</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_G4560_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Вьетнам</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_G4560_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">2</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_G4560_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.5 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_G4560_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">0 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_Gold_G6400_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_Gold_G6400_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_Gold_G6400_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel Pentium Gold G6400</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_Gold_G6400_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_Gold_G6400_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">2</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_Gold_G6400_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_Gold_G6400_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">0 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_200GE_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_200GE_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_200GE_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AMD Athlon 200GE</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_200GE_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Малайзия</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_200GE_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">2</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_200GE_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.2 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_Athlon_200GE_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">0 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_5_3600_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_5_3600_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_5_3600_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AMD Ryzen 5 3600</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_5_3600_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Малайзия</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_5_3600_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">6</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_5_3600_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.6 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_5_3600_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4.2 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_AMD_A8-7680_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_AMD_A8-7680_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_AMD_A8-7680_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AMD A8-7680</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_AMD_A8-7680_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_AMD_A8-7680_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_A8-7680_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.5 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_A8-7680_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.8 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_3_3200G_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_3_3200G_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_3_3200G_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AMD Ryzen 3 3200G</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_3_3200G_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_3_3200G_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_3_3200G_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.6 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_3_3200G_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10100F_BOX"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10100F_BOX"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10100F_BOX"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel Core i3-10100F</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10100F_BOX"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Вьетнам</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10100F_BOX"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10100F_BOX"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.6 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10100F_BOX"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4.3 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_AMD_A6-9500E_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_AMD_A6-9500E_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_AMD_A6-9500E_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AMD A6-9500E</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_AMD_A6-9500E_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Малайзия</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_AMD_A6-9500E_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">2</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_A6-9500E_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_A6-9500E_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.4 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_Intel_Celeron_G5905_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_Intel_Celeron_G5905_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_Intel_Celeron_G5905_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel Celeron G5905</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_Intel_Celeron_G5905_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Малайзия</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_Intel_Celeron_G5905_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">2</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Celeron_G5905_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.5 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Celeron_G5905_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">0 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10105F_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10105F_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10105F_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel Core i3-10105F</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10105F_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Вьетнам</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10105F_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10105F_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.7 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10105F_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4.4 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10100F_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10100F_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10100F_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel Core i3-10100F</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10100F_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Вьетнам</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10100F_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10100F_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.6 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Core_i3-10100F_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4.3 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_AMD_FX-4300_BOX"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_AMD_FX-4300_BOX"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_AMD_FX-4300_BOX"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AMD FX-4300</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_AMD_FX-4300_BOX"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Малайзия</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_AMD_FX-4300_BOX"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_FX-4300_BOX"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.8 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_FX-4300_BOX"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_5_4500_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_5_4500_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_5_4500_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AMD Ryzen 5 4500</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_5_4500_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Малайзия</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_5_4500_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">6</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_5_4500_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">3.6 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_AMD_Ryzen_5_4500_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4.1 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_Gold_G6405_OEM"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Processor"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_Gold_G6405_OEM"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_Gold_G6405_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel Pentium Gold G6405</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_Gold_G6405_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Вьетнам</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#kernel_count"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_Gold_G6405_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">2</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#base_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_Gold_G6405_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">4.1 ГГц</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#max_frequency"/>
+        <NamedIndividual IRI="#Процессор_Intel_Pentium_Gold_G6405_OEM"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">0 ГГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H610M-HDV/M.2_R2.0"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H610M-HDV/M.2_R2.0"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H610M-HDV/M.2_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ASRock H610M-HDV/M.2 R2.0</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H610M-HDV/M.2_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Вьетнам</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H610M-HDV/M.2_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel H610</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H610M-HDV/M.2_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H610M-HDV/M.2_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">64 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_MSI_A520M-A_PRO"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_MSI_A520M-A_PRO"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_MSI_A520M-A_PRO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">MSI A520M-A PRO</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_MSI_A520M-A_PRO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_MSI_A520M-A_PRO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AMD A520</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_MSI_A520M-A_PRO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_MSI_A520M-A_PRO"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">64 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_ASUS_PRIME_H510M-K_R2.0"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_ASUS_PRIME_H510M-K_R2.0"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_ASUS_PRIME_H510M-K_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ASUS PRIME H510M-K R2.0</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_ASUS_PRIME_H510M-K_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">None</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_ASUS_PRIME_H510M-K_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel H470</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_ASUS_PRIME_H510M-K_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_ASUS_PRIME_H510M-K_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">64 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H410M_H_V2"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H410M_H_V2"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H410M_H_V2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GIGABYTE H410M H V2</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H410M_H_V2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H410M_H_V2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel H470</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H410M_H_V2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H410M_H_V2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">64 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H610M-HVS/M.2_R2.0"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H610M-HVS/M.2_R2.0"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H610M-HVS/M.2_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ASRock H610M-HVS/M.2 R2.0</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H610M-HVS/M.2_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Вьетнам</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H610M-HVS/M.2_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel H610</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H610M-HVS/M.2_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H610M-HVS/M.2_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">64 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H410M-H/M.2_SE"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H410M-H/M.2_SE"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H410M-H/M.2_SE"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ASRock H410M-H/M.2 SE</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H410M-H/M.2_SE"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Вьетнам</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H410M-H/M.2_SE"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel H370</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H410M-H/M.2_SE"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H410M-H/M.2_SE"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">64 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_Esonic_H55KEL_WITH_i5_(650)"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_Esonic_H55KEL_WITH_i5_(650)"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_Esonic_H55KEL_WITH_i5_(650)"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Esonic H55KEL WITH i5 (650)</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_Esonic_H55KEL_WITH_i5_(650)"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">None</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_Esonic_H55KEL_WITH_i5_(650)"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel H55</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_Esonic_H55KEL_WITH_i5_(650)"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR3</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_Esonic_H55KEL_WITH_i5_(650)"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">16 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H310CM-HDV/M.2_SE"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H310CM-HDV/M.2_SE"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H310CM-HDV/M.2_SE"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ASRock H310CM-HDV/M.2 SE</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H310CM-HDV/M.2_SE"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Вьетнам</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H310CM-HDV/M.2_SE"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel Q270</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H310CM-HDV/M.2_SE"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H310CM-HDV/M.2_SE"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">32 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_AFOX_A88-MA5"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_AFOX_A88-MA5"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_AFOX_A88-MA5"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AFOX A88-MA5</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_AFOX_A88-MA5"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_AFOX_A88-MA5"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AMD A88</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_AFOX_A88-MA5"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR3</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_AFOX_A88-MA5"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">16 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_DEXP_H610M-HVS/DX"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_DEXP_H610M-HVS/DX"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_DEXP_H610M-HVS/DX"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DEXP H610M-HVS/DX</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_DEXP_H610M-HVS/DX"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Вьетнам</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_DEXP_H610M-HVS/DX"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel H610</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_DEXP_H610M-HVS/DX"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_DEXP_H610M-HVS/DX"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">64 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H510M_K_V2"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H510M_K_V2"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H510M_K_V2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GIGABYTE H510M K V2</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H510M_K_V2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H510M_K_V2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel H470</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H510M_K_V2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H510M_K_V2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">64 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_B450M-HDV_R4.0"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_B450M-HDV_R4.0"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_B450M-HDV_R4.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ASRock B450M-HDV R4.0</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_B450M-HDV_R4.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_B450M-HDV_R4.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">AMD B450</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_B450M-HDV_R4.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_B450M-HDV_R4.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">64 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H470M-HVS"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H470M-HVS"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H470M-HVS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ASRock H470M-HVS</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H470M-HVS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H470M-HVS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel H470</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H470M-HVS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H470M-HVS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">64 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_ASUS_PRIME_H310M-K_R2.0"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_ASUS_PRIME_H310M-K_R2.0"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_ASUS_PRIME_H310M-K_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ASUS PRIME H310M-K R2.0</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_ASUS_PRIME_H310M-K_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_ASUS_PRIME_H310M-K_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel H310</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_ASUS_PRIME_H310M-K_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_ASUS_PRIME_H310M-K_R2.0"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">32 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H310CM-DVS"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H310CM-DVS"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H310CM-DVS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ASRock H310CM-DVS</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H310CM-DVS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H310CM-DVS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel H310</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H310CM-DVS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_ASRock_H310CM-DVS"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">32 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_MSI_PRO_H510M-B"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_MSI_PRO_H510M-B"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_MSI_PRO_H510M-B"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">MSI PRO H510M-B</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_MSI_PRO_H510M-B"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_MSI_PRO_H510M-B"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel H470</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_MSI_PRO_H510M-B"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_MSI_PRO_H510M-B"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">64 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_Esonic_G41CPL3"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_Esonic_G41CPL3"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_Esonic_G41CPL3"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Esonic G41CPL3</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_Esonic_G41CPL3"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_Esonic_G41CPL3"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel G41</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_Esonic_G41CPL3"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR3</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_Esonic_G41CPL3"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">8 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H510M_H_V2"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#Motherboard"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H510M_H_V2"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H510M_H_V2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GIGABYTE H510M H V2</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H510M_H_V2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#chip_set"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H510M_H_V2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intel H470</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_type"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H510M_H_V2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">DDR4</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Материнская_плата_GIGABYTE_H510M_H_V2"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">64 ГБ</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_MSI_Geforce_RTX_3050_VENTUS_2X_XS_WHITE_OC_[RTX_3050_VENTUS_2X_XS_WHITE_8G_OC]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_Geforce_RTX_3050_VENTUS_2X_XS_WHITE_OC_[RTX_3050_VENTUS_2X_XS_WHITE_8G_OC]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_Geforce_RTX_3050_VENTUS_2X_XS_WHITE_OC_[RTX_3050_VENTUS_2X_XS_WHITE_8G_OC]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">MSI Geforce RTX 3050 VENTUS 2X XS WHITE OC</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_Geforce_RTX_3050_VENTUS_2X_XS_WHITE_OC_[RTX_3050_VENTUS_2X_XS_WHITE_8G_OC]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_Geforce_RTX_3050_VENTUS_2X_XS_WHITE_OC_[RTX_3050_VENTUS_2X_XS_WHITE_8G_OC]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_Geforce_RTX_3050_VENTUS_2X_XS_WHITE_OC_[RTX_3050_VENTUS_2X_XS_WHITE_8G_OC]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">8 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_Geforce_RTX_3050_VENTUS_2X_XS_WHITE_OC_[RTX_3050_VENTUS_2X_XS_WHITE_8G_OC]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">14000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_GIGABYTE_GeForce_RTX_3050_OC_Low_Profile_[GV-N3050OC-6GL]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_GIGABYTE_GeForce_RTX_3050_OC_Low_Profile_[GV-N3050OC-6GL]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_GIGABYTE_GeForce_RTX_3050_OC_Low_Profile_[GV-N3050OC-6GL]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GIGABYTE GeForce RTX 3050 OC Low Profile</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_GIGABYTE_GeForce_RTX_3050_OC_Low_Profile_[GV-N3050OC-6GL]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_GIGABYTE_GeForce_RTX_3050_OC_Low_Profile_[GV-N3050OC-6GL]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_GIGABYTE_GeForce_RTX_3050_OC_Low_Profile_[GV-N3050OC-6GL]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">6 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_GIGABYTE_GeForce_RTX_3050_OC_Low_Profile_[GV-N3050OC-6GL]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">14000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_ASRock_Intel_Arc_A750_Challenger_D_OC_[A750_CLD_8GO]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_ASRock_Intel_Arc_A750_Challenger_D_OC_[A750_CLD_8GO]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_ASRock_Intel_Arc_A750_Challenger_D_OC_[A750_CLD_8GO]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ASRock Intel Arc A750 Challenger D OC</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_ASRock_Intel_Arc_A750_Challenger_D_OC_[A750_CLD_8GO]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_ASRock_Intel_Arc_A750_Challenger_D_OC_[A750_CLD_8GO]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Arc A750</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_ASRock_Intel_Arc_A750_Challenger_D_OC_[A750_CLD_8GO]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">8 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_ASRock_Intel_Arc_A750_Challenger_D_OC_[A750_CLD_8GO]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">16000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_VENTUS_2X_OC_[912-V812-016]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_VENTUS_2X_OC_[912-V812-016]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_VENTUS_2X_OC_[912-V812-016]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">MSI GeForce RTX 3050 VENTUS 2X OC</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_VENTUS_2X_OC_[912-V812-016]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_VENTUS_2X_OC_[912-V812-016]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_VENTUS_2X_OC_[912-V812-016]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">6 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_VENTUS_2X_OC_[912-V812-016]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">14000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_Dual_[NE63050018P1-1070D]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_Dual_[NE63050018P1-1070D]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_Dual_[NE63050018P1-1070D]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Palit GeForce RTX 3050 Dual</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_Dual_[NE63050018P1-1070D]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_Dual_[NE63050018P1-1070D]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_Dual_[NE63050018P1-1070D]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">8 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_Dual_[NE63050018P1-1070D]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">14000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_ZOTAC_GeForce_RTX_3050_ECO_SOLO_[ZT-A30500R-10L]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_ZOTAC_GeForce_RTX_3050_ECO_SOLO_[ZT-A30500R-10L]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_ZOTAC_GeForce_RTX_3050_ECO_SOLO_[ZT-A30500R-10L]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ZOTAC GeForce RTX 3050 ECO SOLO</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_ZOTAC_GeForce_RTX_3050_ECO_SOLO_[ZT-A30500R-10L]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_ZOTAC_GeForce_RTX_3050_ECO_SOLO_[ZT-A30500R-10L]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_ZOTAC_GeForce_RTX_3050_ECO_SOLO_[ZT-A30500R-10L]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">8 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_ZOTAC_GeForce_RTX_3050_ECO_SOLO_[ZT-A30500R-10L]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">14000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_Colorful_GeForce_RTX_3050_6GB-V_[RTX_3050_6GB-V]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_Colorful_GeForce_RTX_3050_6GB-V_[RTX_3050_6GB-V]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_Colorful_GeForce_RTX_3050_6GB-V_[RTX_3050_6GB-V]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Colorful GeForce RTX 3050 6GB-V</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_Colorful_GeForce_RTX_3050_6GB-V_[RTX_3050_6GB-V]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_Colorful_GeForce_RTX_3050_6GB-V_[RTX_3050_6GB-V]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_Colorful_GeForce_RTX_3050_6GB-V_[RTX_3050_6GB-V]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">6 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_Colorful_GeForce_RTX_3050_6GB-V_[RTX_3050_6GB-V]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">14000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_Black_[35NSL8MD6YEK]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_Black_[35NSL8MD6YEK]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_Black_[35NSL8MD6YEK]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">KFA2 GeForce RTX 3050 X Black</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_Black_[35NSL8MD6YEK]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_Black_[35NSL8MD6YEK]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_Black_[35NSL8MD6YEK]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">8 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_Black_[35NSL8MD6YEK]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">14000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_Dual_OC_V1_[NE63050S18P1-1070D]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_Dual_OC_V1_[NE63050S18P1-1070D]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_Dual_OC_V1_[NE63050S18P1-1070D]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Palit GeForce RTX 3050 Dual OC V1</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_Dual_OC_V1_[NE63050S18P1-1070D]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_Dual_OC_V1_[NE63050S18P1-1070D]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_Dual_OC_V1_[NE63050S18P1-1070D]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">8 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_Dual_OC_V1_[NE63050S18P1-1070D]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">14000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_StormX_[NE63050018JE-1070F]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_StormX_[NE63050018JE-1070F]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_StormX_[NE63050018JE-1070F]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Palit GeForce RTX 3050 StormX</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_StormX_[NE63050018JE-1070F]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_StormX_[NE63050018JE-1070F]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_StormX_[NE63050018JE-1070F]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">6 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_StormX_[NE63050018JE-1070F]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">14000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_GAMING_X_[912-V812-024]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_GAMING_X_[912-V812-024]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_GAMING_X_[912-V812-024]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">MSI GeForce RTX 3050 GAMING X</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_GAMING_X_[912-V812-024]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_GAMING_X_[912-V812-024]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_GAMING_X_[912-V812-024]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">6 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_GAMING_X_[912-V812-024]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">14000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_ASRock_Intel_Arc_A580_Challenger_OC_[A580_CL_8GO]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_ASRock_Intel_Arc_A580_Challenger_OC_[A580_CL_8GO]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_ASRock_Intel_Arc_A580_Challenger_OC_[A580_CL_8GO]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ASRock Intel Arc A580 Challenger OC</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_ASRock_Intel_Arc_A580_Challenger_OC_[A580_CL_8GO]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_ASRock_Intel_Arc_A580_Challenger_OC_[A580_CL_8GO]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Arc A580</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_ASRock_Intel_Arc_A580_Challenger_OC_[A580_CL_8GO]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">8 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_ASRock_Intel_Arc_A580_Challenger_OC_[A580_CL_8GO]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">16000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_GAMING_[RTX_3050_GAMING_6G]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_GAMING_[RTX_3050_GAMING_6G]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_GAMING_[RTX_3050_GAMING_6G]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">MSI GeForce RTX 3050 GAMING</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_GAMING_[RTX_3050_GAMING_6G]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_GAMING_[RTX_3050_GAMING_6G]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_GAMING_[RTX_3050_GAMING_6G]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">6 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_MSI_GeForce_RTX_3050_GAMING_[RTX_3050_GAMING_6G]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">14000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_PNY_GeForce_RTX_3050_Verto_[VCG30506DFXPB1]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_PNY_GeForce_RTX_3050_Verto_[VCG30506DFXPB1]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_PNY_GeForce_RTX_3050_Verto_[VCG30506DFXPB1]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">PNY GeForce RTX 3050 Verto</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_PNY_GeForce_RTX_3050_Verto_[VCG30506DFXPB1]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_PNY_GeForce_RTX_3050_Verto_[VCG30506DFXPB1]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_PNY_GeForce_RTX_3050_Verto_[VCG30506DFXPB1]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">6 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_PNY_GeForce_RTX_3050_Verto_[VCG30506DFXPB1]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">12</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_Gainward_GeForce_RTX_3050_Pegasus_[NE63050018JE-1070E]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_Gainward_GeForce_RTX_3050_Pegasus_[NE63050018JE-1070E]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_Gainward_GeForce_RTX_3050_Pegasus_[NE63050018JE-1070E]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Gainward GeForce RTX 3050 Pegasus</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_Gainward_GeForce_RTX_3050_Pegasus_[NE63050018JE-1070E]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_Gainward_GeForce_RTX_3050_Pegasus_[NE63050018JE-1070E]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_Gainward_GeForce_RTX_3050_Pegasus_[NE63050018JE-1070E]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">6 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_Gainward_GeForce_RTX_3050_Pegasus_[NE63050018JE-1070E]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">14000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_StormX_OC_[NE63050S18JE-1070F]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_StormX_OC_[NE63050S18JE-1070F]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_StormX_OC_[NE63050S18JE-1070F]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Palit GeForce RTX 3050 StormX OC</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_StormX_OC_[NE63050S18JE-1070F]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_StormX_OC_[NE63050S18JE-1070F]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_StormX_OC_[NE63050S18JE-1070F]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">6 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_Palit_GeForce_RTX_3050_StormX_OC_[NE63050S18JE-1070F]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">14000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_Black_[35NRLDMD9OEK]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_Black_[35NRLDMD9OEK]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_Black_[35NRLDMD9OEK]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">KFA2 GeForce RTX 3050 X Black</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_Black_[35NRLDMD9OEK]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">None</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_Black_[35NRLDMD9OEK]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_Black_[35NRLDMD9OEK]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">6 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_Black_[35NRLDMD9OEK]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">14000 МГц</Literal>
+    </DataPropertyAssertion>    <Declaration>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_White_[35NSL8MD5WEK]"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="#VideoCard"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_White_[35NSL8MD5WEK]"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#model"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_White_[35NSL8MD5WEK]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">KFA2 GeForce RTX 3050 X White</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#country"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_White_[35NSL8MD5WEK]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Китай</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#graphic_process"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_White_[35NSL8MD5WEK]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">GeForce RTX 3050</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_capacity"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_White_[35NSL8MD5WEK]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">8 ГБ</Literal>
+    </DataPropertyAssertion>    <DataPropertyAssertion>
+        <DataProperty IRI="#mem_frequency"/>
+        <NamedIndividual IRI="#Видеокарта_KFA2_GeForce_RTX_3050_X_White_[35NSL8MD5WEK]"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">14000 МГц</Literal>
+    </DataPropertyAssertion>

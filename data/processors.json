@@ -1,0 +1,131 @@
+{
+  "type": "avails-container",
+  "containers": [
+    {
+      "id": "as-hWwJ2v",
+      "data": {
+        "id": "12d32dad-d028-11e8-a206-00155df1b805",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-eTbP1u",
+      "data": {
+        "id": "057676b2-7db0-11e7-97a1-00155d03330d",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-ifu0aH",
+      "data": {
+        "id": "790d362c-7e3e-11e7-a5d2-00155d03330d",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-W1pR3e",
+      "data": {
+        "id": "c3c60e33-a198-11eb-a250-00155dd2ff18",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-H_OqJV",
+      "data": {
+        "id": "4557d0f9-d028-11e8-a206-00155df1b805",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-Nn21Y_",
+      "data": {
+        "id": "2310b40e-accd-11e8-9547-00155d03330d",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-D_oW6N",
+      "data": {
+        "id": "1da50852-afa4-11e6-939f-00155d03330d",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-08JJca",
+      "data": {
+        "id": "79b09291-2808-11ed-9010-00155d8ed20c",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-_YrENX",
+      "data": {
+        "id": "1394529e-33d8-11ed-901c-00155d8ed20c",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-O-z7yG",
+      "data": {
+        "id": "11feba13-12c4-11ed-8ffa-00155d8ed20c",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-qV4Yh_",
+      "data": {
+        "id": "905829c1-1769-11ed-8ffd-00155d8ed20b",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-W-qA3e",
+      "data": {
+        "id": "aef26095-fcc0-11ec-8fe4-00155d8ed20b",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-7kSdOy",
+      "data": {
+        "id": "588277aa-3347-11ed-901b-00155d8ed20c",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-nz-zpq",
+      "data": {
+        "id": "de192645-16f2-11ed-8ffd-00155d8ed20c",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as--Zzsb5",
+      "data": {
+        "id": "1e516fdd-6a79-11ea-a20f-00155d03332b",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-c6yf06",
+      "data": {
+        "id": "39783e4a-fccb-11ec-8fe4-00155d8ed20b",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-J2cxrW",
+      "data": {
+        "id": "6e569b0a-0964-11ed-8ff1-00155d8ed20b",
+        "checkPrice": true
+      }
+    },
+    {
+      "id": "as-uSUS6f",
+      "data": {
+        "id": "d237e136-aff1-11ec-8f97-00155d8ed20c",
+        "checkPrice": true
+      }
+    }
+  ]
+}
